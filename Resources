@@ -1,1 +1,3 @@
-Competitive programming 3 -Steven Halim and Falix Halim
+Competitive programming 3 -Steven Halim and Falix Halim       
+
+number of knight in chessboard : x * y board: ((x*y)+1)/2. if x>=4 and y>=4
