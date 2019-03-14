@@ -1,3 +1,5 @@
 Competitive programming 3 -Steven Halim and Falix Halim       
 
-number of knight in chessboard : x * y board: ((x*y)+1)/2. if x>=4 and y>=4
+number of knight in chessboard : x * y board: ((x*y)+1)/2.                         if x>=3 and y>=3
+                                              ans =x/4*4+(x%4==1)*2+(x%4>1)*4      if x==2 or y==2
+                                              ans = x*y                            if x==1 or y==1
